@@ -178,6 +178,29 @@ img {
   padding: 12px 0;
 }
 
+/* Post */
+.post {
+  padding: 50px 30px;
+}
+
+.post h2 {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: #ccc solid 1px;
+  font-size: 40px;
+}
+
+.post .meta {
+  margin-bottom: 30px;
+}
+
+.post img {
+  display: block;
+  width: 300px;
+  margin: 0 auto 30px;
+  border-radius: 50%;
+}
+
 /* Footer */
 .footer {
   display: flex;
