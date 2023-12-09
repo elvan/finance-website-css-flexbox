@@ -27,16 +27,19 @@
   color: #fff;
   background: #28a745;
 }
+
 .btn-secondary,
 .bg-secondary {
   color: #fff;
   background: #0284d0;
 }
+
 .btn-dark,
 .bg-dark {
   color: #fff;
   background: #333;
 }
+
 .btn-light,
 .bg-light {
   color: #333;
